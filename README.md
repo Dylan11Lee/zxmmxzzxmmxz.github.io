@@ -1,14 +1,10 @@
-Life's Stimulation Game
-This is a web life stimulator that presents lives die/alive cycling
+Life's Stimulation Game This is a web life stimulator that presents life's die/ life 	cycle.
 
-Getting Started
-All you need is to open it
+Getting started all you need is to open it.
 
-Prerequisites
-What things need to install the software and how to install them
+Prerequisites What things are needed to install the software and how to install it
 
-How to play this
-Rules are on the left, and you can either mark grid as a life by clicking or enter total number of grids you want to be lives and let the system to generate those randomly.
+How to play, these rules are on the left, and you can either mark a grid as a life 	by clicking or enter the total number of grids you want to be lives and let the 	system to generate those randomly.
 
 Click run and enjoy!
 
